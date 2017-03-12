@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:latest
 MAINTAINER OpenGG <liy099@gmail.com>
 
 COPY root/ /
