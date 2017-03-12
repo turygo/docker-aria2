@@ -1,5 +1,12 @@
 # docker-aria2
 
+[![](https://images.microbadger.com/badges/version/opengg/aria2.svg)](https://microbadger.com/images/opengg/aria2 "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/opengg/aria2.svg)](https://microbadger.com/images/opengg/aria2 "Get your own image badge on microbadger.com")
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/opengg/aria2.svg)](https://hub.docker.com/r/opengg/aria2/ "Docker Pulls")
+[![Docker Stars](https://img.shields.io/docker/stars/opengg/aria2.svg)](https://hub.docker.com/r/opengg/aria2/ "Docker Stars")
+[![Docker Automated](https://img.shields.io/docker/automated/opengg/aria2.svg)](https://hub.docker.com/r/opengg/aria2/ "Docker Automated")
+
 ## Usage
 
 0. Prepare config and download directories with following commands.
